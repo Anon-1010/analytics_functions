@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telegram Group Analytics Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .metric {
+            background-color: #f4f4f4;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .metric h2 {
+            margin-top: 0;
+            color: #555;
+        }
+        .metric p {
+            margin: 5px 0;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <h1>Telegram Group Analytics Dashboard</h1>
+
+    <div class="metric">
+        <h2>Group Sentiment Pulse</h2>
+        <p><strong>Result:</strong> {{ data.group_sentiment }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>Message Impact Score</h2>
+        <p><strong>Result:</strong> {{ data.message_impact }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>Message Trend Tracker</h2>
+        <p><strong>Result:</strong> {{ data.message_trend }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>User Activity Clusters</h2>
+        <p><strong>Result:</strong> {{ data.user_activity }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>Group Cohesion Index</h2>
+        <p><strong>Result:</strong> {{ data.group_cohesion }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>Bot vs Human Engagement Ratio</h2>
+        <p><strong>Result:</strong> {{ data.bot_human_ratio }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>Group Content Engagement Diversity</h2>
+        <p><strong>Result:</strong> {{ data.content_diversity }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>Group Activity Heatmap</h2>
+        <p><strong>Result:</strong> {{ data.activity_heatmap }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>Top Contributor Influence</h2>
+        <p><strong>Result:</strong> {{ data.top_contributors }}</p>
+    </div>
+
+    <div class="metric">
+        <h2>Message Lifespan</h2>
+        <p><strong>Result:</strong> {{ data.message_lifespan }}</p>
+    </div>
+</body>
+</html>

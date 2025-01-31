@@ -1,0 +1,230 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug:127.0.0.1 - - [31/Jan/2025 14:17:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jan/2025 14:17:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug:127.0.0.1 - - [31/Jan/2025 14:25:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8157233513:AAGLMk2iZt6JStxMxojwpjFlkFLUrUMWgIQ/getUpdates "HTTP/1.1 200 OK"
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<start_telegram_bot() done, defined at C:\Users\DELL\telegram_analytics_dashboard\app.py:104> exception=RuntimeError('Cannot close a running event loop')>
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1069, in __run
+    loop.run_until_complete(self.initialize())
+  File "C:\Python312\Lib\asyncio\base_events.py", line 660, in run_until_complete
+    self._check_running()
+  File "C:\Python312\Lib\asyncio\base_events.py", line 619, in _check_running
+    raise RuntimeError('This event loop is already running')
+RuntimeError: This event loop is already running
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1094, in __run
+    loop.run_until_complete(self.shutdown())
+  File "C:\Python312\Lib\asyncio\base_events.py", line 660, in run_until_complete
+    self._check_running()
+  File "C:\Python312\Lib\asyncio\base_events.py", line 619, in _check_running
+    raise RuntimeError('This event loop is already running')
+RuntimeError: This event loop is already running
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\telegram_analytics_dashboard\app.py", line 105, in start_telegram_bot
+    await application.run_polling()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 868, in run_polling
+    return self.__run(
+           ^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1099, in __run
+    loop.close()
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 687, in close
+    raise RuntimeError("Cannot close a running event loop")
+RuntimeError: Cannot close a running event loop
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<start_telegram_bot() done, defined at C:\Users\DELL\telegram_analytics_dashboard\app.py:104> exception=RuntimeError('Cannot close a running event loop')>
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1069, in __run
+    loop.run_until_complete(self.initialize())
+  File "C:\Python312\Lib\asyncio\base_events.py", line 660, in run_until_complete
+    self._check_running()
+  File "C:\Python312\Lib\asyncio\base_events.py", line 619, in _check_running
+    raise RuntimeError('This event loop is already running')
+RuntimeError: This event loop is already running
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1094, in __run
+    loop.run_until_complete(self.shutdown())
+  File "C:\Python312\Lib\asyncio\base_events.py", line 660, in run_until_complete
+    self._check_running()
+  File "C:\Python312\Lib\asyncio\base_events.py", line 619, in _check_running
+    raise RuntimeError('This event loop is already running')
+RuntimeError: This event loop is already running
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\telegram_analytics_dashboard\app.py", line 105, in start_telegram_bot
+    await application.run_polling()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 868, in run_polling
+    return self.__run(
+           ^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1099, in __run
+    loop.close()
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 687, in close
+    raise RuntimeError("Cannot close a running event loop")
+RuntimeError: Cannot close a running event loop
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<start_telegram_bot() done, defined at C:\Users\DELL\telegram_analytics_dashboard\app.py:104> exception=RuntimeError('Cannot close a running event loop')>
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1069, in __run
+    loop.run_until_complete(self.initialize())
+  File "C:\Python312\Lib\asyncio\base_events.py", line 660, in run_until_complete
+    self._check_running()
+  File "C:\Python312\Lib\asyncio\base_events.py", line 619, in _check_running
+    raise RuntimeError('This event loop is already running')
+RuntimeError: This event loop is already running
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1094, in __run
+    loop.run_until_complete(self.shutdown())
+  File "C:\Python312\Lib\asyncio\base_events.py", line 660, in run_until_complete
+    self._check_running()
+  File "C:\Python312\Lib\asyncio\base_events.py", line 619, in _check_running
+    raise RuntimeError('This event loop is already running')
+RuntimeError: This event loop is already running
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\telegram_analytics_dashboard\app.py", line 105, in start_telegram_bot
+    await application.run_polling()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 868, in run_polling
+    return self.__run(
+           ^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\ext\_application.py", line 1099, in __run
+    loop.close()
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 687, in close
+    raise RuntimeError("Cannot close a running event loop")
+RuntimeError: Cannot close a running event loop
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-310-883
+INFO:werkzeug: * Detected change in 'C:\\Users\\DELL\\telegram_analytics_dashboard\\analytics_functions.py', reloading
